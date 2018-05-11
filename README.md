@@ -1,5 +1,6 @@
-# epikript
-epiah kript github page
+# epiahcrypto
+epiah crypto github page
 
-crypt algorithm by epiah
+crypto algorithm by epiah
+
 go website to look
